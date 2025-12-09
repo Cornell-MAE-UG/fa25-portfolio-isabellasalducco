@@ -4,8 +4,8 @@ title: Linear Actuator Design
 description: Class Assignment with Sketch
 technologies: N/A
 image: /assets/images/Sketch.png
+image: /assets/images/Sketch.png
 ---
-
 
 The Problem/Objective:
 
