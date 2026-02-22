@@ -3,7 +3,7 @@ layout: project
 title: Client Proposal
 description: Write-up
 technologies: N/A
-image: /assets/images/IMG_1094.jpg
+image: /assets/images/Spotted-laternfly-scaled.jpg
 ---
 
 The Problem/Objective:
