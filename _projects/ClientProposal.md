@@ -6,14 +6,30 @@ technologies: N/A
 image: /assets/images/Spotted-lanternfly-scaled.jpg
 ---
 
-The Problem/Objective:
+Spotted Lanternflies randomly disperse and lay their eggs on a multitude of surfaces, including vehicles, allowing them to be easily transported and spread to new places. Current solutions to the SLF invasion reduce current adult density in locations of interest, such as vineyards. However, this superficial approach does not address the new generations of eggs, each mass containing approximately 30 to 50 eggs, waiting to hatch. The core problem lies in SLF oviposition being unregulated, allowing new infestations to persist despite local control efforts. The dispersal of eggs is regulated through post-oviposition elimination, which is too large in scale to be consistently effective.
 
-For this project, I was tasked with developing a system within a 150 cm x 50 cm design space, using a linear actuator to lift the maximum possible load to the greatest height. 
+Impact:
 
+Targeting the consolidation of SLF egg masses would introduce a mechanism aimed at reducing infestation as a whole, rather than just redirecting populations away from their current hosts. This would not only mitigate the problem at its source but also substantially reduce the labor required for scouting and scraping egg masses. Therefore, by addressing unconstrained oviposition, this approach could limit continued reinfestation and the resulting economic and ecological damage.
 
-Constraints:
+Proposed direction:
 
-The assignment parameters required the incorporation of three pin supports (two of which had to be grounded) as well as the use of a linear actuator.
+We will implement a device that intermittently emits high concentrations of oils such as tea tree, peppermint, or lavender before oviposition so that “no lay zones” are created. This would redirect adults from laying eggs in protected sensitive zones and towards designated areas where they can be monitored and destroyed. We would
+Install multiple devices with 10-25 feet between each one from July to December
+Conduct routine population counts outside of the 5-10 foot radius of each device to measure adult activity and inspect for eggs beginning in September
+Routinely destroy egg masses through the early spring
+Instead of finding a method to eliminate the adult population by redirecting where they can lay their eggs, we can aggregate them and more effectively destroy them. Most current approaches target the adult population; however, by targeting oviposition, we reduce the next generation compounding over time.  We can feasibly develop and test an aerosol repellent module that delivers short bursts of essential oils to repel SLF from vineyards and into controlled egg-laying zones.
+
+Key risks/unknowns:
+
+Environmental Variability— Wind, rain, and other environmental factors can alter how any airborne particle interacts with its environment. We would aim to optimize an aerosol delivery, determining the minimum effective concentration required under varying environmental conditions, while also evaluating drift, deposition patterns, and stability over time.
+Population Redistribution — Concentrating SLF into designated zones requires careful planning and treatment to avoid inadvertently worsening the problem. We would need to survey the density of SLF in the surrounding area before deployment to ensure that it does not increase in these untreated zones.
+
+Questions for the client: 
+
+Where are egg masses most commonly found in and around your vineyards (specific surfaces and materials)? Decision affected: Surface texture design and deployment location.
+When is the most critical deployment window before oviposition begins? Decision affected: Timing, release duration, and refill interval.
+Are there restrictions on chemical compounds or odors near grape production areas? Decision affected: Selection of deterrent or attractant compounds.
 
 
 Solution:
