@@ -31,13 +31,6 @@ Where are egg masses most commonly found in and around your vineyards (specific 
 When is the most critical deployment window before oviposition begins? Decision affected: Timing, release duration, and refill interval.
 Are there restrictions on chemical compounds or odors near grape production areas? Decision affected: Selection of deterrent or attractant compounds.
 
-
-Solution:
-
-In my design, I used a 150 cm long bar with a pin support located at the leftmost end. A second pin support was positioned 129.3 cm from the left end, anchoring the linear actuator to the ground. The actuator used was an IMA55 model, capable of extending vertically to a maximum length of 45.72 cm to raise the bar and achieve maximum lift height.
-
-This design is considered optimal because the bar only needs to be elevated 19.47 degrees to lift the load to maximum height. This small angle limits the vertical pushback force on the actuator lessening the importance of a breaking system.
-
 ---
 
 
