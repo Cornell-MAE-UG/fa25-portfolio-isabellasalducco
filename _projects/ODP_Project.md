@@ -9,7 +9,6 @@ The spotted lanternfly (SLF) is a growing threat to vineyards, feeding on grapev
 
 Our team aims to address the SLF problem by proposing a solution that focuses on the strategic relocation of populations, drawing them away from vulnerable vineyards and toward less sensitive areas. By redirecting their concentration, this approach seeks to reduce damage to grapevines while supporting more sustainable and targeted pest management efforts.
 
-**The Project**
 <html lang="en">
 <head>
   <meta charset="UTF-8">
