@@ -92,6 +92,52 @@ Instead of finding a method to eliminate the adult population by redirecting whe
             </div>
           </div>
 
+          <div class="card">
+              <div class="card-header" id="headingEight">
+                <h2 class="mb-0">
+                  <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
+                    iv. Key Risks
+                  </button>
+                </h2>
+              </div>
+              <div id="collapseEight" class="collapse" aria-labelledby="headingEight" data-parent="#accordionExample2">
+                <div class="card-body">
+                  1. Environmental Variability— Wind, rain, and other environmental factors can alter how any airborne particle interacts with its environment. We would aim to optimize an aerosol delivery, determining the minimum effective concentration required under varying environmental conditions, while also evaluating drift, deposition patterns, and stability over time.
+<br>
+<br>
+2. Population Redistribution — Concentrating SLF into designated zones requires careful planning and treatment to avoid inadvertently worsening the problem. We would need to survey the density of SLF in the surrounding area before deployment to ensure that it does not increase in these untreated zones.
+
+
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+<div class="card">
+              <div class="card-header" id="headingNine">
+                <h2 class="mb-0">
+                  <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
+                    iv. Key Risks
+                  </button>
+                </h2>
+              </div>
+              <div id="collapseNine" class="collapse" aria-labelledby="headingNine" data-parent="#accordionExample2">
+                <div class="card-body">
+                  1. Where are egg masses most commonly found in and around your vineyards (specific surfaces and materials)? Decision affected: Surface texture design and deployment location.
+                  <br>
+                  <br>
+2. When is the most critical deployment window before oviposition begins? Decision affected: Timing, release duration, and refill interval.
+<br>
+<br>
+3. Are there restrictions on chemical compounds or odors near grape production areas? Decision affected: Selection of deterrent or attractant compounds.
+
+                </div>
+              </div>
+            </div>
+          </div>
+
+
         </div>
       </div>
     </div>
