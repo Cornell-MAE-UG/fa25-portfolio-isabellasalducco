@@ -10,38 +10,36 @@ The spotted lanternfly (SLF) is a growing threat to vineyards, feeding on grapev
 Our team aims to address the SLF problem by proposing a solution that focuses on the strategic relocation of populations, drawing them away from vulnerable vineyards and toward less sensitive areas. By redirecting their concentration, this approach seeks to reduce damage to grapevines while supporting more sustainable and targeted pest management efforts.
 
 **The Project**
-
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Nested Accordion Example</title>
+  <title>Checkpoints</title>
   <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
 </head>
 <body>
 
 <div class="container mt-5">
-  <!-- First level Accordion -->
+  <!-- Client Pitch -->
   <div class="accordion" id="accordionExample1">
     <div class="card">
       <div class="card-header" id="headingOne">
         <h2 class="mb-0">
           <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-            Parent Accordion Item #1
+            I. Client Pitch
           </button>
         </h2>
       </div>
 
       <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample1">
         <div class="card-body">
-          <!-- Nested Accordion (Second Level) -->
+          <!-- Functional Prototype -->
           <div class="accordion" id="accordionExample2">
             <div class="card">
               <div class="card-header" id="headingTwo">
                 <h2 class="mb-0">
                   <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
-                    Nested Accordion Item #1
+                    II. Functional Prototype
                   </button>
                 </h2>
               </div>
