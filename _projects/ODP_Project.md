@@ -66,7 +66,7 @@ Our team aims to address the SLF problem by proposing a solution that focuses on
               </div>
             </div>
           </div>
-          <!-- End of Nested Accordion -->
+          
 
   <div class="card">
               <div class="card-header" id="headingSeven">
@@ -90,7 +90,7 @@ Instead of finding a method to eliminate the adult population by redirecting whe
                 </div>
               </div>
             </div>
-          </div>
+        
 
           <div class="card">
               <div class="card-header" id="headingEight">
@@ -111,7 +111,7 @@ Instead of finding a method to eliminate the adult population by redirecting whe
                 </div>
               </div>
             </div>
-          </div>
+          
 
 
 <div class="card">
