@@ -79,9 +79,12 @@ Our team aims to address the SLF problem by proposing a solution that focuses on
           </button>
         </h2>
       </div>
-      <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample1">
+
+    
+
+      <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordionExample1">
         <div class="card-body">
-          <!-- Nested within Client Pitch -->
+          <!-- Nested within Functional Prototype -->
           <div class="accordion" id="accordionExample2">
             <div class="card">
               <div class="card-header" id="headingTwo">
