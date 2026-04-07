@@ -1,6 +1,6 @@
 ---
 layout: project
-title: ODP
+title: Spotted Lanternfly Project
 description: Whole Project
 technologies: 3D Printer, Fusion 360
 image: /assets/images/Spotted-lanternfly-scaled.jpg
