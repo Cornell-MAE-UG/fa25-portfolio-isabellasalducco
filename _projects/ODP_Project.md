@@ -82,7 +82,7 @@ Our team aims to address the SLF problem by proposing a solution that focuses on
      <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordionExample1">
         <div class="card-body">
           <!-- Nested within Functional Prototype -->
-          <div class="accordion" id="accordionExample2">
+          <div class="accordion" id="accordionExample3">
             <div class="card">
               <div class="card-header" id="headingFive">
                 <h2 class="mb-0">
