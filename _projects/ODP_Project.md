@@ -79,12 +79,46 @@ Our team aims to address the SLF problem by proposing a solution that focuses on
           </button>
         </h2>
       </div>
-      <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordionExample1">
+      <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample1">
         <div class="card-body">
-          here we made our first prototype
+          <!-- Nested within Client Pitch -->
+          <div class="accordion" id="accordionExample2">
+            <div class="card">
+              <div class="card-header" id="headingTwo">
+                <h2 class="mb-0">
+                  <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
+                    i. Problem
+                  </button>
+                </h2>
+              </div>
+
+              <div id="collapseTwo" class="collapse show" aria-labelledby="headingTwo" data-parent="#accordionExample2">
+                <div class="card-body">
+                  The spotted latern fly population is a big problem
+                </div>
+              </div>
+            </div>
+
+            <div class="card">
+              <div class="card-header" id="headingThree">
+                <h2 class="mb-0">
+                  <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                    ii. Proposed Solution
+                  </button>
+                </h2>
+              </div>
+              <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample2">
+                <div class="card-body">
+                  We propose to attack the population
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- End of Nested Accordion -->
         </div>
       </div>
     </div>
+     
   </div>
 </div>
 
