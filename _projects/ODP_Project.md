@@ -130,9 +130,8 @@ This test was designed to determine how fast the motor that drives the chamber m
                 <div class="card-body">
                   This prototype is designed to mix and transport liquid through a rotating chamber and pump system to demonstrate the first of two functioning parts of this project. Success will be measured by how well the device remains stable, mixes, and moves the target liquid from the bottle through the pump. 
 <hr>
-<img src="/assets/images/ODP5.png" 
-       alt="Spotted lanternfly"
-       class="img-fluid mt-3">
+<img src="/assets/images/PictureOfProto.jpeg" 
+       alt="Spotted lanternfly">
 1. The first criterion is the stability of the prototype, which evaluates whether the bottle, motor, shell, and support pieces fit together and remain stable while the prototype is running. We can measure this by assembling the main parts and observing whether they remain supported with little wobble for at least 30 seconds when all devices are turned on.
 <br> 
 <br>
