@@ -95,22 +95,19 @@ Our team aims to address the SLF problem by proposing a solution that focuses on
               <div id="collapseFive" class="collapse show" aria-labelledby="headingFive" data-parent="#accordionExample3">
                 <div class="card-body">
                   Component Fit Test: Were we able to assemble our components to see where everything should fit in our next design?
-<br>
+<hr>
 This test was conducted to determine whether all components of the system could be properly assembled and positioned within the design. The goal was to verify that each part fits as intended and to identify any spatial or alignment issues before moving forward with the next design iteration. The results showed that the components could be assembled successfully, with one caveat: the bottle we purchased did not fit in our printed component. We were able to visualize working conditions by using another bottle, but we will make alterations in future iterations. Therefore, adjustments will be required to improve fit and stability.
 <br>
-<br>
 Pump Function Test: Is the pump able to move water effectively out of our chamber into another bottle?
-<br>
+<hr>
 This test was designed to measure the flow rate of the pump as it moves the liquid from the chamber to the nozzle. We simulated these circumstances by filling the chamber with water and then pumping that water into another container (set volume) to see how long it would take (mL/sec). However, we soon concluded that our pump would not be effective in this endeavor. We discovered that the pump we had purchased was unable to self-prime, so it is not suitable for our system which is designed to turn on and off on its own. 
 <br>
-<br>
 Mixing Efficiency: Does our spinning, motor-driven mixing mechanism effectively mix the liquid inside the chamber? 
-<br>
+<hr>
 This test was designed to determine the efficiency of our mechanism to actually mix the liquid inside the chamber. A drop of food coloring was added to the liquid in the chamber, and the motor was immediately activated. After a few seconds of operation, the motor was stopped and the mixture was visually inspected. The results indicated that the liquid became uniformly mixed within a short period of time. This confirms that the mixing mechanism is effective, which is critical since homogeneity is essential for the system’s intended industrial function.
 <br>
-<br>
 Rotational Motor Speed: How fast does the motor spin?
-<br>
+<hr>
 This test was designed to determine how fast the motor that drives the chamber mixing is rotating. It was conducted by first assembling the mechanism, attaching the motor to the base and the chamber, and then placing a tape “flag” on the top of the bottle. A video was then taken to record the number of times that the flag passed the same point, as a measure of RPM. In the end, we recorded 15 rotations in 5.24s and concluded that the motor spins the chamber at 170 RPM.  
 
                 </div>
