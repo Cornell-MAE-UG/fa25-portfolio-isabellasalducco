@@ -129,10 +129,14 @@ This test was designed to determine how fast the motor that drives the chamber m
                 <div class="card-body">
                   This prototype is designed to mix and transport liquid through a rotating chamber and pump system to demonstrate the first of two functioning parts of this project. Success will be measured by how well the device remains stable, mixes, and moves the target liquid from the bottle through the pump. 
 <br>
+<br>
+<br>
 
 1. The first criterion is the stability of the prototype, which evaluates whether the bottle, motor, shell, and support pieces fit together and remain stable while the prototype is running. We can measure this by assembling the main parts and observing whether they remain supported with little wobble for at least 30 seconds when all devices are turned on.
 <br> 
+<br>
 2. The second criterion is the effectiveness of mixing, which looks at how well the spinning chamber mixes the liquid inside. We can measure this by adding food coloring to the liquid and turning on the motor. If the liquid becomes evenly mixed, visually uniform, within 30 seconds, the prototype meets the standard. 
+<br>
 <br>
 3. The last criterion is the transport performance of the liquid, which looks at whether the pump can successfully move the target liquid from the bottle to the nozzle. We can measure this by testing if 50 ml of liquid can be moved through the pump from the bottle in under a minute. On exhibit day, we can demonstrate this process simply by running the pump and demonstrating the liquid being moved. 
 
