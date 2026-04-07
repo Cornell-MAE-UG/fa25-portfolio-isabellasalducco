@@ -80,8 +80,6 @@ Our team aims to address the SLF problem by proposing a solution that focuses on
         </h2>
       </div>
 
-    
-
       <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordionExample1">
         <div class="card-body">
           <!-- Nested within Functional Prototype -->
@@ -90,14 +88,14 @@ Our team aims to address the SLF problem by proposing a solution that focuses on
               <div class="card-header" id="headingTwo">
                 <h2 class="mb-0">
                   <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
-                    i. Problem
+                    i. Design Documentation
                   </button>
                 </h2>
               </div>
 
-              <div id="collapseTwo" class="collapse show" aria-labelledby="headingTwo" data-parent="#accordionExample2">
+              <div id="collapseFive" class="collapse show" aria-labelledby="headingTwo" data-parent="#accordionExample2">
                 <div class="card-body">
-                  The spotted latern fly population is a big problem
+                  insert picture here 
                 </div>
               </div>
             </div>
@@ -110,7 +108,7 @@ Our team aims to address the SLF problem by proposing a solution that focuses on
                   </button>
                 </h2>
               </div>
-              <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample2">
+              <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordionExample2">
                 <div class="card-body">
                   We propose to attack the population
                 </div>
