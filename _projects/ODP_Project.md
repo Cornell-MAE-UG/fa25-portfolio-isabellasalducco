@@ -39,28 +39,14 @@ Our team aims to address the SLF problem by proposing a solution that focuses on
               <div class="card-header" id="headingTwo">
                 <h2 class="mb-0">
                   <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
-                    i. Problem
+                    i. Problem Statement
                   </button>
                 </h2>
               </div>
 
               <div id="collapseTwo" class="collapse show" aria-labelledby="headingTwo" data-parent="#accordionExample2">
                 <div class="card-body">
-                  
---- fontsize: 11pt geometry: margin=1in papersize: letter pagestyle: empty header-includes: -
-\pagenumbering{gobble} --- # Your Project Title **Team:** _Your Team Name_ **Client(s):** Cornell
-CALS Extension / E\&J Gallo Winery / National Grape ## Problem statement (most important) is trying to in
-, but . What challenge currently makes obvious solutions difficult to implement? Add enough detail to
-narrow down the scope to the part of the problem you want to focus on. ## Impact Give context for why
-solving this sub-problem addresses the client's user needs. ## Proposed direction(s) ### Concept A
-(primary): <1-line name> **What it is:** <1–2 sentences.> **How it would be used:** <2–4 bullet “user
-flow” steps.> **Why it’s better than the status quo:** <2–3 bullets.> **End-of-semester proof-of-concept:**
-### Concepts B, C, etc. ## Key risks / unknowns - — why it matters, and how you’ll test it. - — why it
-matters, and how you’ll test it. - — why it matters, and how you’ll test it. ## Questions for the client Focus
-on questions they can answer from lived experience. 1. **** *Decision affected:* 2. **** *Decision
-affected:* 3. **** *Decision affected:* 4. **** *Decision affected:* \newpage # Optional page 2 —
-References and/or one figure ## References - - ## Figure
-
+                  Spotted Lanternflies randomly disperse and lay their eggs on a multitude of surfaces, including vehicles, allowing them to be easily transported and spread to new places. Current solutions to the SLF invasion reduce current adult density in locations of interest, such as vineyards. However, this superficial approach does not address the new generations of eggs, each mass containing approximately 30 to 50 eggs, waiting to hatch. The core problem lies in SLF oviposition being unregulated, allowing new infestations to persist despite local control efforts. The dispersal of eggs is regulated through post-oviposition elimination, which is too large in scale to be consistently effective.
                 </div>
               </div>
             </div>
@@ -69,18 +55,40 @@ References and/or one figure ## References - - ## Figure
               <div class="card-header" id="headingThree">
                 <h2 class="mb-0">
                   <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                    ii. Proposed Solution
+                    ii. Impact
                   </button>
                 </h2>
               </div>
               <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample2">
                 <div class="card-body">
-                  We propose to attack the population
+                  Targeting the consolidation of SLF egg masses would introduce a mechanism aimed at reducing infestation as a whole, rather than just redirecting populations away from their current hosts. This would not only mitigate the problem at its source but also substantially reduce the labor required for scouting and scraping egg masses. Therefore, by addressing unconstrained oviposition, this approach could limit continued reinfestation and the resulting economic and ecological damage.
                 </div>
               </div>
             </div>
           </div>
           <!-- End of Nested Accordion -->
+
+  <div class="card">
+              <div class="card-header" id="headingSeven">
+                <h2 class="mb-0">
+                  <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+                    ii. Proposed Direction
+                  </button>
+                </h2>
+              </div>
+              <div id="collapseSeven" class="collapse" aria-labelledby="headingSeven" data-parent="#accordionExample2">
+                <div class="card-body">
+                  We will implement a device that intermittently emits high concentrations of oils such as tea tree, peppermint, or lavender before oviposition so that “no lay zones” are created. This would redirect adults from laying eggs in protected sensitive zones and towards designated areas where they can be monitored and destroyed. We would
+Install multiple devices with 10-25 feet between each one from July to December
+Conduct routine population counts outside of the 5-10 foot radius of each device to measure adult activity and inspect for eggs beginning in September
+Routinely destroy egg masses through the early spring
+Instead of finding a method to eliminate the adult population by redirecting where they can lay their eggs, we can aggregate them and more effectively destroy them. Most current approaches target the adult population; however, by targeting oviposition, we reduce the next generation compounding over time.  We can feasibly develop and test an aerosol repellent module that delivers short bursts of essential oils to repel SLF from vineyards and into controlled egg-laying zones.
+
+                </div>
+              </div>
+            </div>
+          </div>
+
         </div>
       </div>
     </div>
