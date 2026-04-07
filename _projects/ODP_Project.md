@@ -94,7 +94,7 @@ Our team aims to address the SLF problem by proposing a solution that focuses on
 
               <div id="collapseFive" class="collapse show" aria-labelledby="headingFive" data-parent="#accordionExample3">
                 <div class="card-body">
-                  **Component Fit Test: Were we able to assemble our components to see where everything should fit in our next design?**
+                  Component Fit Test: Were we able to assemble our components to see where everything should fit in our next design?
 <br>
 This test was conducted to determine whether all components of the system could be properly assembled and positioned within the design. The goal was to verify that each part fits as intended and to identify any spatial or alignment issues before moving forward with the next design iteration. The results showed that the components could be assembled successfully, with one caveat: the bottle we purchased did not fit in our printed component. We were able to visualize working conditions by using another bottle, but we will make alterations in future iterations. Therefore, adjustments will be required to improve fit and stability.
 <br>
@@ -121,13 +121,21 @@ This test was designed to determine how fast the motor that drives the chamber m
               <div class="card-header" id="headingSix">
                 <h2 class="mb-0">
                   <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-                    ii. Proposed Solution
+                    ii. Success Criteria
                   </button>
                 </h2>
               </div>
               <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordionExample3">
                 <div class="card-body">
-                  We propose to attack the population
+                  This prototype is designed to mix and transport liquid through a rotating chamber and pump system to demonstrate the first of two functioning parts of this project. Success will be measured by how well the device remains stable, mixes, and moves the target liquid from the bottle through the pump. 
+<br>
+
+1. The first criterion is the stability of the prototype, which evaluates whether the bottle, motor, shell, and support pieces fit together and remain stable while the prototype is running. We can measure this by assembling the main parts and observing whether they remain supported with little wobble for at least 30 seconds when all devices are turned on.
+<br> 
+2. The second criterion is the effectiveness of mixing, which looks at how well the spinning chamber mixes the liquid inside. We can measure this by adding food coloring to the liquid and turning on the motor. If the liquid becomes evenly mixed, visually uniform, within 30 seconds, the prototype meets the standard. 
+<br>
+3. The last criterion is the transport performance of the liquid, which looks at whether the pump can successfully move the target liquid from the bottle to the nozzle. We can measure this by testing if 50 ml of liquid can be moved through the pump from the bottle in under a minute. On exhibit day, we can demonstrate this process simply by running the pump and demonstrating the liquid being moved. 
+
                 </div>
               </div>
             </div>
