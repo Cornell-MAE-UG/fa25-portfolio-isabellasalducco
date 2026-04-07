@@ -79,21 +79,20 @@ Our team aims to address the SLF problem by proposing a solution that focuses on
           </button>
         </h2>
       </div>
-
-      <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordionExample1">
+     <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordionExample1">
         <div class="card-body">
           <!-- Nested within Functional Prototype -->
           <div class="accordion" id="accordionExample2">
             <div class="card">
-              <div class="card-header" id="headingTwo">
+              <div class="card-header" id="headingFive">
                 <h2 class="mb-0">
-                  <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
+                  <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseFive" aria-expanded="true" aria-controls="collapseFive">
                     i. Design Documentation
                   </button>
                 </h2>
               </div>
 
-              <div id="collapseFive" class="collapse show" aria-labelledby="headingTwo" data-parent="#accordionExample2">
+              <div id="collapseFive" class="collapse show" aria-labelledby="headingFive" data-parent="#accordionExample2">
                 <div class="card-body">
                   insert picture here 
                 </div>
@@ -101,9 +100,9 @@ Our team aims to address the SLF problem by proposing a solution that focuses on
             </div>
 
             <div class="card">
-              <div class="card-header" id="headingThree">
+              <div class="card-header" id="headingSix">
                 <h2 class="mb-0">
-                  <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                  <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
                     ii. Proposed Solution
                   </button>
                 </h2>
