@@ -72,16 +72,19 @@ Our team aims to address the SLF problem by proposing a solution that focuses on
               <div class="card-header" id="headingSeven">
                 <h2 class="mb-0">
                   <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
-                    ii. Proposed Direction
+                    iii. Proposed Direction
                   </button>
                 </h2>
               </div>
               <div id="collapseSeven" class="collapse" aria-labelledby="headingSeven" data-parent="#accordionExample2">
                 <div class="card-body">
                   We will implement a device that intermittently emits high concentrations of oils such as tea tree, peppermint, or lavender before oviposition so that “no lay zones” are created. This would redirect adults from laying eggs in protected sensitive zones and towards designated areas where they can be monitored and destroyed. We would
-Install multiple devices with 10-25 feet between each one from July to December
-Conduct routine population counts outside of the 5-10 foot radius of each device to measure adult activity and inspect for eggs beginning in September
-Routinely destroy egg masses through the early spring
+                  <br>
+                  <br>
+- Install multiple devices with 10-25 feet between each one from July to December<br>
+- Conduct routine population counts outside of the 5-10 foot radius of each device to measure adult activity and inspect for eggs beginning in September <br>
+- Routinely destroy egg masses through the early spring <br>
+<br>
 Instead of finding a method to eliminate the adult population by redirecting where they can lay their eggs, we can aggregate them and more effectively destroy them. Most current approaches target the adult population; however, by targeting oviposition, we reduce the next generation compounding over time.  We can feasibly develop and test an aerosol repellent module that delivers short bursts of essential oils to repel SLF from vineyards and into controlled egg-laying zones.
 
                 </div>
