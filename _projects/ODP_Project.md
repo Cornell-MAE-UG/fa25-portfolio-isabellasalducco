@@ -92,7 +92,7 @@ Our team aims to address the SLF problem by proposing a solution that focuses on
                 </h2>
               </div>
 
-              <div id="collapseFive" class="collapse show" aria-labelledby="headingFive" data-parent="#accordionExample2">
+              <div id="collapseFive" class="collapse show" aria-labelledby="headingFive" data-parent="#accordionExample3">
                 <div class="card-body">
                   insert picture here 
                 </div>
@@ -107,7 +107,7 @@ Our team aims to address the SLF problem by proposing a solution that focuses on
                   </button>
                 </h2>
               </div>
-              <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordionExample2">
+              <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordionExample3">
                 <div class="card-body">
                   We propose to attack the population
                 </div>
