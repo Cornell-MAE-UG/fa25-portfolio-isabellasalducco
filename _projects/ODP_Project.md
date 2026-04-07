@@ -118,19 +118,25 @@ Instead of finding a method to eliminate the adult population by redirecting whe
               <div class="card-header" id="headingNine">
                 <h2 class="mb-0">
                   <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
-                    iv. Key Risks
+                    v. Questions For Client
                   </button>
                 </h2>
               </div>
               <div id="collapseNine" class="collapse" aria-labelledby="headingNine" data-parent="#accordionExample2">
                 <div class="card-body">
-                  1. Where are egg masses most commonly found in and around your vineyards (specific surfaces and materials)? Decision affected: Surface texture design and deployment location.
+                  1. Where are egg masses most commonly found in and around your vineyards (specific surfaces and materials)? 
+                  <br>
+                  Decision affected: Surface texture design and deployment location.
                   <br>
                   <br>
-2. When is the most critical deployment window before oviposition begins? Decision affected: Timing, release duration, and refill interval.
+2. When is the most critical deployment window before oviposition begins? 
+<br>
+Decision affected: Timing, release duration, and refill interval.
 <br>
 <br>
-3. Are there restrictions on chemical compounds or odors near grape production areas? Decision affected: Selection of deterrent or attractant compounds.
+3. Are there restrictions on chemical compounds or odors near grape production areas? 
+<br>
+Decision affected: Selection of deterrent or attractant compounds.
 
                 </div>
               </div>
