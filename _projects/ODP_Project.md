@@ -65,7 +65,7 @@ Our team aims to address the SLF problem by proposing a solution that focuses on
                 </div>
               </div>
             </div>
-          </div>
+          
           
 
   <div class="card">
