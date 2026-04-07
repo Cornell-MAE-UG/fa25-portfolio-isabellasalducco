@@ -2,7 +2,7 @@
 layout: project
 title: ODP
 description: Whole Project
-technologies: N/A
+technologies: 3D Printer, Fusion 360
 image: /assets/images/Spotted-lanternfly-scaled.jpg
 ---
 The spotted lanternfly (SLF) is a growing threat to vineyards, feeding on grapevines and weakening them by extracting sap. Heavy infestations can reduce fruit quality and even kill vines. SLF also produce honeydew, which leads to sooty mold that interferes with photosynthesis and damages grapes. Because they gather in large numbers and are highly attracted to grapevines, SLF can cause widespread damage quickly. Managing this pest requires careful monitoring and integrated control strategies to protect vineyard health and productivity.
