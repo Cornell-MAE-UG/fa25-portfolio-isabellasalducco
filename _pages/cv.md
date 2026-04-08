@@ -5,43 +5,41 @@ permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
-
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [ims74@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** 6318044720
 
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Aspiring engineering student with a strong foundation in biomechanics Passionate about orthopedic tissue mechanics and eager to apply my knowledge in real-world applications.
 
 ---
 
 #### Education
 - **Cornell University**  
-  *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA:  | Graduation: Month, Year
+  *Bachelor of Science in Biomedical Engineering*  
+  GPA:  | Graduation: 05, 2028
 
-- **[High School Name]**  
-  *High School Diploma*  
-  Graduation: [Month, Year]
+- **Patchogue Medford Highschool**  
+  *Advanced Regents Diploma*  
+  Graduation: [06, 2024]
 
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
-- **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
+- **Software:** Autodesk Fusion 360, ANSYS  
+- **Programming:** Python, MATLAB, Java
+- **Tools:** 3D Printing, Welding, Soldering, Arduino  
 
 ---
 
 #### Projects
-- **[Project Title]**:  
+- **PRoSPER**:  
   *[Short Description]*  
   - Key Achievement 1  
   - Key Achievement 2  
 
-- **[Project Title]**:  
+- **FiBR**:  
   *[Short Description]*  
   - Key Achievement 1  
   - Key Achievement 2  
@@ -49,22 +47,16 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 ---
 
 #### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
+- ** Bovay Lab - Employee**  
+  [01, 2026] - present  
   - Responsibility 1  
   - Responsibility 2  
 
 ---
 
-#### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
-
----
-
 #### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
+- Member of Engineering Ambassadors  
+- Volunteer for the Sciencenter   
 
 ---
 
