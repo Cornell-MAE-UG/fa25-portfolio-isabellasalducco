@@ -37,7 +37,7 @@ Our team aims to address the SLF problem by proposing a solution that focuses on
             <div class="card">
               <div class="card-header" id="headingTwo">
                 <h2 class="mb-0">
-                  <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
+                  <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                     i. Problem Statement
                   </button>
                 </h2>
@@ -162,7 +162,7 @@ Decision affected: Selection of deterrent or attractant compounds.
             <div class="card">
               <div class="card-header" id="headingFive">
                 <h2 class="mb-0">
-                  <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseFive" aria-expanded="true" aria-controls="collapseFive">
+                  <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
                     i. Design Testing
                   </button>
                 </h2>
