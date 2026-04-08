@@ -17,12 +17,13 @@ Aspiring engineering student with a strong foundation in biomechanics Passionate
 
 #### Education
 - **Cornell University**  
-  *Bachelor of Science in Biomedical Engineering*  
+  *Bachelor of Science in Biomedical Engineering* 
+  *Bachelor of Science in Mechanical and Aerospace Engineering*  
   GPA:  | Graduation: 05, 2028
 
 - **Patchogue Medford Highschool**  
   *Advanced Regents Diploma*  
-  Graduation: [06, 2024]
+  Graduation: 06, 2024
 
 ---
 
@@ -35,8 +36,12 @@ Aspiring engineering student with a strong foundation in biomechanics Passionate
 
 #### Projects
 - **PRoSPER**:  
-  *[Short Description]*  
-  - Key Achievement 1  
+
+  *Martian soil is rich in perchlorates, a molecule found to be toxic to both plant growth and human homeostasis. This compound serves as a significant barrier to Mars exploration and long-term colonization. Team Cornell proposes PRoSPER, Planetary Removal of Soil Perchlorates and Enrichment Remediation, as a means of establishing future Martian settlements through bioremediation and traditional agricultural development. PRoSPER utilizes a microbial coculture of E. coli with a genetically engineered perchlorate reductase pathway, and Synechococcus sp. PCC 7002 to uptake the resulting chloride byproducts. This coculture will be housed in a novel Adaptive Reaction Chamber bioreactor family that is easily adjusted to optimal growing conditions. PRoSPER improves the viability of Martian settlement by not only removing a key obstacle to plant growth but also encouraging a dual-market strategy approach that can be used to advance the future of space exploration.*  
+
+  - Awarded Gold Medal
+  - Awarded Best Undergraduate Hardware
+  - Awarded Best Undergraduate/Overgraduate Space Project   
   - Key Achievement 2  
 
 - **FiBR**:  
@@ -47,16 +52,17 @@ Aspiring engineering student with a strong foundation in biomechanics Passionate
 ---
 
 #### Work Experience
-- ** Bovay Lab - Employee**  
-  [01, 2026] - present  
-  - Responsibility 1  
-  - Responsibility 2  
+- **Bovay Lab - Employee**  
+  01, 2026 - Present  
+  - Operate and teach lab machinery etiquette including welding, tensile testing, and 3D printing
+  - Maintain an organized and safe laboratory environment to best support research and instruction  
 
 ---
 
 #### Extracurricular Activities
 - Member of Engineering Ambassadors  
-- Volunteer for the Sciencenter   
+- Volunteer for the Sciencenter Ithaca 
+- Member of Meinig Scholars    
 
 ---
 
