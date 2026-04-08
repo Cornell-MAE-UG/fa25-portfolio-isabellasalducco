@@ -43,7 +43,7 @@ Our team aims to address the SLF problem by proposing a solution that focuses on
                 </h2>
               </div>
 
-              <div id="collapseTwo" class="collapse show" aria-labelledby="headingTwo" data-parent="#accordionExample2">
+              <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample2">
                 <div class="card-body">
                   Spotted Lanternflies randomly disperse and lay their eggs on a multitude of surfaces, including vehicles, allowing them to be easily transported and spread to new places. Current solutions to the SLF invasion reduce current adult density in locations of interest, such as vineyards. However, this superficial approach does not address the new generations of eggs, each mass containing approximately 30 to 50 eggs, waiting to hatch. The core problem lies in SLF oviposition being unregulated, allowing new infestations to persist despite local control efforts. The dispersal of eggs is regulated through post-oviposition elimination, which is too large in scale to be consistently effective.
                 </div>
