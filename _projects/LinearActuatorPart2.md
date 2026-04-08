@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Linear Actuator Design
+title: Linear Actuator Design 2
 description: Class Assignment with Sketch
 technologies: N/A
 image: /assets/images/Bending.jpg
