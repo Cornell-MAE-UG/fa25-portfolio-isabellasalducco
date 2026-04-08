@@ -30,7 +30,7 @@ Our team aims to address the SLF problem by proposing a solution that focuses on
         </h2>
       </div>
 
-      <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample1">
+      <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample1">
         <div class="card-body">
           <!-- Nested within Client Pitch -->
           <div class="accordion" id="accordionExample2">
@@ -168,7 +168,7 @@ Decision affected: Selection of deterrent or attractant compounds.
                 </h2>
               </div>
 
-              <div id="collapseFive" class="collapse show" aria-labelledby="headingFive" data-parent="#accordionExample3">
+              <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordionExample3">
                 <div class="card-body">
                   Component Fit Test: Were we able to assemble our components to see where everything should fit in our next design?
 <br>
