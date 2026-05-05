@@ -222,7 +222,103 @@ This test was designed to determine how fast the motor that drives the chamber m
         </div>
       </div>
     </div>
-     
+     <!-- III. Client Report -->
+<div class="card">
+  <div class="card-header" id="headingTen">
+    <h2 class="mb-0">
+      <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
+        III. Client Report
+      </button>
+    </h2>
+  </div>
+
+  <div id="collapseTen" class="collapse" aria-labelledby="headingTen" data-parent="#accordionExample1">
+    <div class="card-body">
+
+      <!-- Nested within Client Report -->
+      <div class="accordion" id="accordionExample4">
+
+        <div class="card">
+          <div class="card-header" id="headingEleven">
+            <h2 class="mb-0">
+              <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseEleven" aria-expanded="false" aria-controls="collapseEleven">
+                i. Problem Statement
+              </button>
+            </h2>
+          </div>
+          <div id="collapseEleven" class="collapse" aria-labelledby="headingEleven" data-parent="#accordionExample4">
+            <div class="card-body">
+              Add your updated problem statement here.
+            </div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-header" id="headingTwelve">
+            <h2 class="mb-0">
+              <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwelve" aria-expanded="false" aria-controls="collapseTwelve">
+                ii. Final Product and Application
+              </button>
+            </h2>
+          </div>
+          <div id="collapseTwelve" class="collapse" aria-labelledby="headingTwelve" data-parent="#accordionExample4">
+            <div class="card-body">
+              Describe your final product and how it is applied.
+            </div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-header" id="headingThirteen">
+            <h2 class="mb-0">
+              <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThirteen" aria-expanded="false" aria-controls="collapseThirteen">
+                iii. Conclusion and Recommendation
+              </button>
+            </h2>
+          </div>
+          <div id="collapseThirteen" class="collapse" aria-labelledby="headingThirteen" data-parent="#accordionExample4">
+            <div class="card-body">
+              Add your conclusions and recommendations here.
+            </div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-header" id="headingFourteen">
+            <h2 class="mb-0">
+              <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFourteen" aria-expanded="false" aria-controls="collapseFourteen">
+                iv. Testing and Results
+              </button>
+            </h2>
+          </div>
+          <div id="collapseFourteen" class="collapse" aria-labelledby="headingFourteen" data-parent="#accordionExample4">
+            <div class="card-body">
+              Add summarized testing results here.
+            </div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-header" id="headingFifteen">
+            <h2 class="mb-0">
+              <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFifteen" aria-expanded="false" aria-controls="collapseFifteen">
+                v. Prototype and Testing Details
+              </button>
+            </h2>
+          </div>
+          <div id="collapseFifteen" class="collapse" aria-labelledby="headingFifteen" data-parent="#accordionExample4">
+            <div class="card-body">
+              Add detailed prototype design and testing methods here.
+            </div>
+          </div>
+        </div>
+
+      </div>
+      <!-- End Nested -->
+
+    </div>
+  </div>
+</div>
   </div>
 </div>
 
