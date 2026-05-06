@@ -349,7 +349,7 @@ A limitation of this study is that testing was conducted in a controlled environ
           <div id="collapseFifteen" class="collapse" aria-labelledby="headingFifteen" data-parent="#accordionExample4">
             <div class="card-body">
             hhhhhhj
-              display:block; margin:auto;">
+          
             </div>
           </div>
         </div>
