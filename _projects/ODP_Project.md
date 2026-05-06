@@ -248,7 +248,10 @@ This test was designed to determine how fast the motor that drives the chamber m
           </div>
           <div id="collapseEleven" class="collapse" aria-labelledby="headingEleven" data-parent="#accordionExample4">
             <div class="card-body">
-              Add your updated problem statement here.
+              Spotted Lanternflies randomly disperse and lay their eggs on a multitude of surfaces, including vehicles, allowing them to be easily transported and spread to new places. Current solutions to the SLF invasion aim to reduce adult density in locations of interest, such as vineyards. However, this direct approach does not address the new generations of eggs that persistently hatch each year. The core problem lies in the unregulated SLF oviposition, allowing infestations to persist despite local control efforts. The dispersal of eggs is regulated through post-oviposition elimination, which is too large in scale to be consistently effective. 
+
+Targeting the consolidation of SLF egg masses would introduce a mechanism to reduce infestation overall, rather than just redirecting populations away from their current hosts. This would not only mitigate the problem at its source but also substantially reduce the labor required to locate and scrape egg masses. Therefore, our prototype is intended for use in the later months of September through December, when SLF tend to lay their eggs for the next year. For the client, by discouraging oviposition in selected vineyard zones, the device helps shift egg masses away from sensitive production areas and toward locations where monitoring and removal are more manageable.
+
             </div>
           </div>
         </div>
@@ -263,7 +266,30 @@ This test was designed to determine how fast the motor that drives the chamber m
           </div>
           <div id="collapseTwelve" class="collapse" aria-labelledby="headingTwelve" data-parent="#accordionExample4">
             <div class="card-body">
-              Describe your final product and how it is applied.
+              We developed a battery-powered, distributed repellent device designed to create localized zones that discourage SLF oviposition. The system consists of a rotating reservoir, a fluid delivery mechanism, and a spray distribution component, all integrated into a compact and stable housing suitable for field deployment.
+
+At the core of the device is a 950 mL reservoir mounted within a coaxial cylinder system. A DC motor drives the rotation of this reservoir at approximately 142 RPM, ensuring that the essential oil and water mixture remains sufficiently homogeneous during operation. This mixing is critical to maintaining a consistent concentration of the deterrent, which directly impacts both effectiveness and crop safety. Fluid is drawn from the reservoir by a diaphragm pump, which provides a steady and reliable flow rate to the nozzle.
+
+The spray system incorporates a rotating nozzle capable of distributing the solution in a full 360-degree pattern. This design avoids the formation of a concentrated plume and instead produces a more uniform spatial distribution, creating a symmetric initial condition for subsequent diffusion in the surrounding air. The device can operate in either a mist or stream mode, allowing for flexibility in balancing coverage area and fluid consumption. 
+
+The entire system is powered by a 12V battery pack housed in the base of the device. Wiring from the motor and pump is routed through the outer shell into a centralized circuit system, enabling a clean and durable design. The base also includes integrated legs with stake holes to ensure stability against environmental disturbances such as wind or uneven terrain. For maintenance, the device can be easily refilled through a top-mounted funnel, and the battery pack can be removed and replaced for recharging. In practice, multiple devices would be deployed throughout a vineyard, particularly in high-risk areas such as perimeters, equipment zones, and previously infested regions, forming a distributed network of deterrent coverage. The device is designed to be modular and easily transportable rather than permanent. 
+
+This allows the client to reposition units as the change in SLF activity varies throughout the seasons. This is important for vineyards because infestation pressure may vary from one area to another. A refillable device also allows the client to test deterrent coverage without committing to a single method. To support scalability and reproducibility the assembly process is outlined below:
+
+Assembly Process:
+
+Overview: 
+The device is assembled in a modular, bottom-up configuration. The base houses the primary DC motor, protoboard circuitry, and battery pack. Wiring from the motor and pump is routed vertically through the inter-cylindrical space, protecting it from interference. Components are secured using a snap-fit design for easy assembly and maintenance. A rotating support is then installed to hold the reservoir, with a ball bearing at the top enabling smooth rotation. The top cover is attached next, housing the diaphragm pump and a secondary motor. Finally, a 360-degree nozzle is mounted to complete the spray system.
+
+Insert the High Speed Motor into the slot in the base
+Position the bottle holder such that the d-shaft of the motor aligns with the slot in the holder
+Align the outer shell with the dowels in the base
+Place the bottle in its holder and inside the shell
+Press the bearing into the bearing holder/top compartment
+Align the center of the bearing with the top of the bottle, then align the top compartment with the dowels in the outer shell and connect the two
+Place the Diaphragm Pump and Low-Torque Motor with the nozzle attached in the top compartment
+Cover the top compartment with the cap
+
             </div>
           </div>
         </div>
@@ -278,7 +304,13 @@ This test was designed to determine how fast the motor that drives the chamber m
           </div>
           <div id="collapseThirteen" class="collapse" aria-labelledby="headingThirteen" data-parent="#accordionExample4">
             <div class="card-body">
-              Add your conclusions and recommendations here.
+              For vineyard implementation, we recommend a deployment strategy that begins with high-risk zones such as the vineyard perimeters and previously infested regions. A network of repellent modules can be deployed several meters apart to create slightly overlapping deterrence zones. Device effectiveness should be monitored throughout the oviposition stage (September-November), and placement or spray mode should be adjusted based on local environmental conditions and SLF activity patterns. The next step would be to specifically evaluate how long the deterrent remains effective, how wind affects the range, and whether the SLF behavior does truly change when the device is active. This device is not intended to be used as a pesticide in that it will kill the flies, but a strategy to localize the current and future populations to allow greater control over the current rampant invasion. Once these deterrence measures are taken, they can be coupled with existing egg removal techniques at the near end of the oviposition stage, such that the egg sacs are effectively scraped and killed before they hatch in the spring.
+
+Further development could allow integration with existing vineyard infrastructure, eliminating issues related to maintaining many individual modules. For example, the devices can be wired such that they feed off of the existing irrigation channels that feed the sprinkling devices to limit the need for refilling their smaller capacity. Through the incorporation of a stock solution of highly concentrated oil into the device, it could be made to draw in the concentrated liquid while simultaneously taking in clean waterfrom the irrigation system and mixing them with the motor-driven device. The highly modular design allows for this easy addition and innovation, as long as the key base features are maintained. 
+
+Additionally, an aerosol sensor could be another future advancement, giving the device capabilities to adapt to these unpredictable environmental field conditions. Our device has been tested and demonstrated clear and proficient flow and spray diameters in a controlled environment. However, the main target, the open outdoors, is not controlled. Numerous unknowns and factors can contribute to excess diffusion or a decrease in efficiency. Therefore, by making the system adaptive, you could make it so that it self-regulates and is constantly ready to spray if it detects a drop in aerosolized concentration of the deterring particles in the air. These two developments would take our design and propagate it into a more industrial-grade mechanism, making it an overall more reliable and self-maintained system. 
+ 
+
             </div>
           </div>
         </div>
@@ -293,7 +325,11 @@ This test was designed to determine how fast the motor that drives the chamber m
           </div>
           <div id="collapseFourteen" class="collapse" aria-labelledby="headingFourteen" data-parent="#accordionExample4">
             <div class="card-body">
-              Add summarized testing results here.
+              Based on our experimental testing, the stream nozzle setting offers the most effective dispersal. Since our device features an adjustable nozzle capable of multiple dispersal methods, we tested across 3 different nozzle configurations to identify the ideal setting. Our tests evaluated three success criteria for each mode: effective range, how well the oil-water mixture stays homogenous during dispersal, and how many application cycles you get per bottle. 
+Across all three modes, we confirmed that our mixing mechanism could maintain a stable oil-water mixture at each spray velocity. Additionally, the number of use cycles (one cycle = one nozzle rotation) was nearly identical between the three methods, only ranging from 8.95 to 9.73 cycles per fill. The stream setting, however, exhibited the best range with a radius of 4.5 ft and an equivalent coverage of 63.62 sq ft. This was over 3.5x greater than the hybrid setting and 20x better than the mist. Since each nozzle mode displayed similar operational longevity and sufficient mixing capabilities, the large gap in spraying radius proved that the stream mode is favorable.
+
+A limitation of this study is that testing was conducted in a controlled environment, and external factors such as wind may impact real-world performance.
+
             </div>
           </div>
         </div>
@@ -302,13 +338,13 @@ This test was designed to determine how fast the motor that drives the chamber m
           <div class="card-header" id="headingFifteen">
             <h2 class="mb-0">
               <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFifteen" aria-expanded="false" aria-controls="collapseFifteen">
-                v. Prototype and Testing Details
+                v. Bill of Materials
               </button>
             </h2>
           </div>
           <div id="collapseFifteen" class="collapse" aria-labelledby="headingFifteen" data-parent="#accordionExample4">
             <div class="card-body">
-              Add detailed prototype design and testing methods here.
+              <img src="/assets/images/bill.png" alt="Prototype budget table" style="width:100%; max-width:1000px; display:block; margin:auto;">
             </div>
           </div>
         </div>
