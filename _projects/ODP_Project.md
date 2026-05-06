@@ -285,8 +285,6 @@ This allows the client to reposition units as the change in SLF activity varies 
 <br>
 Assembly Process:
 <br>
-Overview: 
-<br>
 The device is assembled in a modular, bottom-up configuration. The base houses the primary DC motor, protoboard circuitry, and battery pack. Wiring from the motor and pump is routed vertically through the inter-cylindrical space, protecting it from interference. Components are secured using a snap-fit design for easy assembly and maintenance. A rotating support is then installed to hold the reservoir, with a ball bearing at the top enabling smooth rotation. The top cover is attached next, housing the diaphragm pump and a secondary motor. Finally, a 360-degree nozzle is mounted to complete the spray system.
 
 
