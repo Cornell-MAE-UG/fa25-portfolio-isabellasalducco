@@ -348,7 +348,8 @@ A limitation of this study is that testing was conducted in a controlled environ
           </div>
           <div id="collapseFifteen" class="collapse" aria-labelledby="headingFifteen" data-parent="#accordionExample4">
             <div class="card-body">
-              <img src="/fa25-portfolio-isabellasalducco/assets/images/budget_table.png" alt="Prototype budget table" style="width:100%; max-width:1000px; display:block; margin:auto;">
+            hhhhhh
+              display:block; margin:auto;">
             </div>
           </div>
         </div>
