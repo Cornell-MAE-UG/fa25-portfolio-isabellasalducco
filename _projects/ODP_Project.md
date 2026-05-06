@@ -348,7 +348,91 @@ A limitation of this study is that testing was conducted in a controlled environ
           </div>
           <div id="collapseFifteen" class="collapse" aria-labelledby="headingFifteen" data-parent="#accordionExample4">
             <div class="card-body">
-            hhhhhhjk
+            
+            
+
+
+<div class="table-responsive">
+  <table class="table table-bordered table-sm text-center">
+    <thead>
+      <tr>
+        <th>Item</th>
+        <th>Description</th>
+        <th>Purchased From</th>
+        <th>Part Number</th>
+        <th>Unit Price</th>
+        <th>Quantity</th>
+        <th>Total Price</th>
+      </tr>
+    </thead>
+
+    <tbody>
+      <tr class="table-primary">
+        <th colspan="7">Final Prototype</th>
+      </tr>
+      <tr><td>1</td><td>Diaphragm Pump</td><td>Amazon</td><td>N/A</td><td>$9.49</td><td>1</td><td>$9.49</td></tr>
+      <tr><td>2</td><td>High Speed Motor</td><td>Amazon</td><td>N/A</td><td>$9.99</td><td>1</td><td>$9.99</td></tr>
+      <tr><td>3</td><td>Plastic Bottle</td><td>Amazon</td><td>N/A</td><td>$14.99</td><td>1</td><td>$14.99</td></tr>
+      <tr><td>4</td><td>Low-Torque Motor</td><td>Amazon</td><td>N/A</td><td>$14.99</td><td>1</td><td>$14.99</td></tr>
+      <tr><td>5</td><td>Battery Holder</td><td>Amazon</td><td>N/A</td><td>$7.99</td><td>1</td><td>$7.99</td></tr>
+      <tr><td>6</td><td>Mini PCB</td><td>Amazon</td><td>N/A</td><td>$7.79</td><td>1</td><td>$7.79</td></tr>
+      <tr><td>7</td><td>Ball Bearing</td><td>McMaster Carr</td><td>5972K248</td><td>$19.00</td><td>1</td><td>$19.00</td></tr>
+      <tr><td>8</td><td>Nozzle</td><td>McMaster Carr</td><td>3177K5</td><td>$42.98</td><td>1</td><td>$42.98</td></tr>
+      <tr>
+        <td colspan="6"><strong>Total</strong></td>
+        <td><strong>$127.22</strong></td>
+      </tr>
+
+      <tr class="table-primary">
+        <th colspan="7">Earlier Prototypes/Testing</th>
+      </tr>
+      <tr><td>1</td><td>Ball Bearing</td><td>McMaster Carr</td><td>5972K217</td><td>$16.15</td><td>1</td><td>$16.15</td></tr>
+      <tr><td>2</td><td>Water Pump</td><td>Amazon</td><td>N/A</td><td>$12.99</td><td>1</td><td>$12.99</td></tr>
+      <tr><td>3</td><td>High Speed Motor</td><td>Amazon</td><td>N/A</td><td>$9.99</td><td>1</td><td>$9.99</td></tr>
+      <tr>
+        <td colspan="6"><strong>Total</strong></td>
+        <td><strong>$39.13</strong></td>
+      </tr>
+
+      <tr style="background-color:#b4a7d6;">
+        <th colspan="7">3D Printed Parts</th>
+      </tr>
+      <tr>
+        <th>Item</th>
+        <th>Description</th>
+        <th>Purchased From</th>
+        <th>Mass Estimate</th>
+        <th>Material</th>
+        <th>Cost/gram</th>
+        <th>Total Cost</th>
+      </tr>
+      <tr><td>1</td><td>Cover</td><td>RPL</td><td>75</td><td>PLA</td><td>$0.05</td><td>$3.75</td></tr>
+      <tr><td>2</td><td>Bearing Holder/Top Compartment</td><td>RPL</td><td>250</td><td>PLA</td><td>$0.05</td><td>$12.50</td></tr>
+      <tr><td>3</td><td>Outer Shell</td><td>RPL</td><td>250</td><td>PLA</td><td>$0.05</td><td>$12.50</td></tr>
+      <tr><td>4</td><td>Nozzle-Pump Fitting</td><td>RPL</td><td>10</td><td>PLA</td><td>$0.05</td><td>$0.50</td></tr>
+      <tr><td>5</td><td>Base/Electronics Compartment</td><td>RPL</td><td>150</td><td>PLA</td><td>$0.05</td><td>$7.50</td></tr>
+      <tr><td>6</td><td>Dowels</td><td>RPL</td><td>10</td><td>PLA</td><td>$0.05</td><td>$0.50</td></tr>
+      <tr><td>7</td><td>Spinning Bottle Holder</td><td>RPL</td><td>50</td><td>PLA</td><td>$0.05</td><td>$2.50</td></tr>
+      <tr>
+        <td colspan="6"><strong>Total</strong></td>
+        <td><strong>$39.75</strong></td>
+      </tr>
+
+      <tr>
+        <td colspan="6" style="background-color:#ea9999;"><strong>Total Budget Used</strong></td>
+        <td><strong>$206.10</strong></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+
+
+
+
+
+
+
           
             </div>
           </div>
